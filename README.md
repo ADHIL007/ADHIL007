@@ -8,7 +8,7 @@ eager to continue learning and growing in the field of web development.
 
 
 - 🔭 I’m currently working on ShopyCart
-- 🌱 I’m currently learning MAchine learning with Python
+- 🌱 I’m currently learning Machine learning with Python
 - 📫 How to reach me: `adhilshaht111@gmail.com`
 - ⚡ Fun fact: iam 20 and Single
 
