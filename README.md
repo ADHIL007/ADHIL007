@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ADHIL007/ADHIL007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My self ADHIL SHAH ,As an aspiring web developer, I have experience in React, Node, and Express. I am proficient in C programming
+and have some familiarity with Java and Python. I also have knowledge and skills in SQL and NoSQL, as well as
+basic design knowledge and a strong grasp of OOP concepts. I am committed to producing high-quality work and
+eager to continue learning and growing in the field of web development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on ShopyCart
+- 🌱 I’m currently learning MAchine learning with Python
+- 📫 How to reach me: `adhilshaht111@gmail.com`
+- ⚡ Fun fact: iam 20 and Single
+
+
+
+
