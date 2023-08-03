@@ -6,7 +6,7 @@
 <!-- Social Media Badges -->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShahDevp0?color=1DA1F2&label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/ShahDevp0) 
-[![Linkedin: adhil-shah](https://img.shields.io/badge/-adhilshah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adhil-shah-5643101b4/)](https://www.linkedin.com/in/adhil-shah-5643101b4/) 
+[![Linkedin: adhil-shah](https://img.shields.io/badge/-adhilshah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah404/)]([https://www.linkedin.com/in/adhil-shah-5643101b4/](https://www.linkedin.com/in/shah404/)) 
 [![GitHub followers](https://img.shields.io/github/followers/ADHIL007?logo=GitHub&style=for-the-badge)](https://github.com/ADHIL007)
 
 <!-- Introduction -->
